@@ -26,8 +26,8 @@ CREATE TABLE IF NOT EXISTS tickets(
 CREATE TABLE IF NOT EXISTS passenger(
     passenger_id SERIAL PRIMARY KEY,
     name VARCHAR NOT NULL,
-    dob DATE NOT NULL,
-    gender CHAR(1) NOT NULL
+    -- dob DATE NOT NULL,
+    -- gender CHAR(1) NOT NULL
 );
 
 CREATE TABLE IF NOT EXISTS booked(

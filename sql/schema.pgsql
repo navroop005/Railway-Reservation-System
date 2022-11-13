@@ -16,27 +16,30 @@ CREATE TABLE IF NOT EXISTS journey(
 CREATE TABLE IF NOT EXISTS tickets(
     train_id INTEGER NOT NULL,
     doj DATE NOT NULL,
-    pnr INTEGER PRIMARY KEY,
+    pnr SERIAL PRIMARY KEY,
     number_of_passengers INTEGER NOT NULL,
+    coach_type CHAR(2) NOT NULL,
     FOREIGN KEY (train_id, doj)
         REFERENCES journey(train_id, doj)
+);
+
+CREATE TABLE IF NOT EXISTS passenger(
+    passenger_id SERIAL PRIMARY KEY,
+    name VARCHAR NOT NULL
 );
 
 CREATE TABLE IF NOT EXISTS booked(
     passenger_id INTEGER NOT NULL,
     pnr INTEGER NOT NULL,  
+    berth_no INTEGER NOT NULL,
+    coach_no INTEGER NOT NULL,
     FOREIGN KEY (pnr)
         REFERENCES tickets(pnr),
     FOREIGN KEY (passenger_id)
         REFERENCES passenger(passenger_id)
 );
 
-CREATE TABLE IF NOT EXISTS passenger(
-    passenger_id INTEGER PRIMARY KEY,
-    name VARCHAR NOT NULL,
-    dob DATE NOT NULL,
-    gender CHAR(1) NOT NULL
-    berth_no INTEGER NOT NULL,
-    coach_no INTEGER NOT NULL,
-
+CREATE TABLE IF NOT EXISTS coach_info(
+    item VARCHAR PRIMARY KEY,
+    value INTEGER NOT NULL
 );

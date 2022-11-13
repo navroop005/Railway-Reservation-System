@@ -25,15 +25,16 @@ AS $$
 
         EXCEPTION
             WHEN foreign_key_violation THEN
-            RAISE NOTICE 'Train_id invalid';
+                INSERT INTO trains VALUES (train_id);
+                INSERT INTO journey VALUES (train_id, doj, num_ac, num_sl, num_ac * berth_ac, num_sl * berth_sl);
+
+                RAISE NOTICE 'New train_id added.';
     END;
 $$;
 
 
 CREATE OR REPLACE FUNCTION add_passenger_info(
-    inp_name VARCHAR, 
-    inp_gender CHAR(1), 
-    inp_dob DATE
+    inp_name VARCHAR
 )
 RETURNS INTEGER
 LANGUAGE PLPGSQL
@@ -41,7 +42,7 @@ AS $$
     DECLARE
         passenger_id INTEGER;
     BEGIN
-        INSERT INTO passenger(name, gender, dob) VALUES (inp_name, inp_gender, inp_dob);
+        INSERT INTO passenger(name) VALUES (inp_name);
         SELECT last_value INTO passenger_id FROM passenger_passenger_id_seq;
         RETURN passenger_id;
     END;
