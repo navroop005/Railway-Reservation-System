@@ -1,0 +1,620 @@
+Ticket booked PNR: 751079 Train Number: 4523 Date: 2023-09-14
+	Name: UAJF Coach Number: 6 Berth Number: 9
+
+Train 4523 on date 2023-07-20 not available.
+
+Train 5914 on date 2023-07-20 not available.
+
+No seats available for train 3983 on date 2023-02-19.
+
+No seats available for train 5332 on date 2023-02-19.
+
+Train 3983 on date 2023-08-08 not available.
+
+Ticket booked PNR: 51059 Train Number: 5914 Date: 2023-10-21
+	Name: VTPR Coach Number: 7 Berth Number: 20
+	Name: NXFD Coach Number: 7 Berth Number: 21
+	Name: TLVS Coach Number: 7 Berth Number: 22
+	Name: MIXR Coach Number: 7 Berth Number: 23
+	Name: UIWW Coach Number: 7 Berth Number: 24
+	Name: ZCOM Coach Number: 8 Berth Number: 1
+	Name: HOSO Coach Number: 8 Berth Number: 2
+	Name: JBDV Coach Number: 8 Berth Number: 3
+	Name: VCOG Coach Number: 8 Berth Number: 4
+
+No seats available for train 6909 on date 2023-08-08.
+
+No seats available for train 3983 on date 2023-11-13.
+
+No seats available for train 2495 on date 2023-02-19.
+
+Ticket booked PNR: 66488 Train Number: 5914 Date: 2023-05-10
+	Name: MPPX Coach Number: 8 Berth Number: 10
+	Name: FYGA Coach Number: 8 Berth Number: 11
+	Name: YTPZ Coach Number: 8 Berth Number: 12
+	Name: NDSZ Coach Number: 8 Berth Number: 13
+	Name: DKOY Coach Number: 8 Berth Number: 14
+
+No seats available for train 3983 on date 2023-11-13.
+
+No seats available for train 3983 on date 2023-07-20.
+
+Ticket booked PNR: 293133 Train Number: 3983 Date: 2023-05-10
+	Name: OZYZ Coach Number: 6 Berth Number: 7
+	Name: MDOQ Coach Number: 6 Berth Number: 8
+
+Train 6581 on date 2023-10-21 not available.
+
+No seats available for train 2495 on date 2023-09-14.
+
+Train 5653 on date 2023-10-21 not available.
+
+No seats available for train 2495 on date 2023-01-11.
+
+Train 4423 on date 2023-07-20 not available.
+
+No seats available for train 6581 on date 2023-01-11.
+
+No seats available for train 2495 on date 2023-05-10.
+
+Train 5653 on date 2023-10-21 not available.
+
+No seats available for train 6909 on date 2023-02-19.
+
+Ticket booked PNR: 732906 Train Number: 4423 Date: 2023-10-21
+	Name: MWQC Coach Number: 9 Berth Number: 5
+	Name: IHJT Coach Number: 9 Berth Number: 6
+	Name: GNEM Coach Number: 9 Berth Number: 7
+	Name: RDIW Coach Number: 9 Berth Number: 8
+	Name: IAOG Coach Number: 9 Berth Number: 9
+	Name: FNNM Coach Number: 9 Berth Number: 10
+
+No seats available for train 4423 on date 2023-08-08.
+
+Train 6581 on date 2023-08-08 not available.
+
+No seats available for train 2495 on date 2023-10-21.
+
+No seats available for train 2495 on date 2023-10-21.
+
+Train 2495 on date 2023-01-03 not available.
+
+No seats available for train 2495 on date 2023-11-13.
+
+Train 3983 on date 2023-09-14 not available.
+
+No seats available for train 5332 on date 2023-04-10.
+
+Train 6909 on date 2023-10-21 not available.
+
+Ticket booked PNR: 772925 Train Number: 5332 Date: 2023-07-19
+	Name: TEJL Coach Number: 6 Berth Number: 23
+
+No seats available for train 5332 on date 2023-04-10.
+
+No seats available for train 5914 on date 2023-09-14.
+
+No seats available for train 3983 on date 2023-07-20.
+
+Ticket booked PNR: 224899 Train Number: 3983 Date: 2023-04-10
+	Name: OMMF Coach Number: 7 Berth Number: 7
+	Name: HWAL Coach Number: 7 Berth Number: 8
+	Name: SLWU Coach Number: 7 Berth Number: 9
+	Name: AFLN Coach Number: 7 Berth Number: 10
+
+Train 3983 on date 2023-08-08 not available.
+
+Train 6581 on date 2023-02-19 not available.
+
+No seats available for train 2495 on date 2023-07-20.
+
+No seats available for train 6581 on date 2023-01-11.
+
+Ticket booked PNR: 403975 Train Number: 4423 Date: 2023-01-03
+	Name: NCUZ Coach Number: 6 Berth Number: 7
+	Name: XXED Coach Number: 6 Berth Number: 8
+	Name: RFEB Coach Number: 6 Berth Number: 9
+	Name: IKQC Coach Number: 6 Berth Number: 10
+	Name: LXJL Coach Number: 6 Berth Number: 11
+	Name: HFPJ Coach Number: 6 Berth Number: 12
+
+No seats available for train 5859 on date 2023-05-10.
+
+No seats available for train 5653 on date 2023-11-13.
+
+Ticket booked PNR: 557822 Train Number: 6909 Date: 2023-07-20
+	Name: HLSM Coach Number: 7 Berth Number: 19
+	Name: FBIY Coach Number: 7 Berth Number: 20
+	Name: QHNG Coach Number: 7 Berth Number: 21
+	Name: AIUY Coach Number: 7 Berth Number: 22
+	Name: LXJF Coach Number: 7 Berth Number: 23
+	Name: SVBK Coach Number: 7 Berth Number: 24
+
+Train 2495 on date 2023-04-10 not available.
+
+No seats available for train 2495 on date 2023-08-08.
+
+No seats available for train 4523 on date 2023-08-08.
+
+No seats available for train 5653 on date 2023-04-10.
+
+Train 6581 on date 2023-02-19 not available.
+
+No seats available for train 4423 on date 2023-11-13.
+
+No seats available for train 4423 on date 2023-05-10.
+
+No seats available for train 6581 on date 2023-11-13.
+
+No seats available for train 5859 on date 2023-01-03.
+
+No seats available for train 2495 on date 2023-11-13.
+
+Train 5653 on date 2023-10-21 not available.
+
+Train 5914 on date 2023-01-03 not available.
+
+No seats available for train 2495 on date 2023-01-11.
+
+Train 5332 on date 2023-08-08 not available.
+
+Train 5332 on date 2023-08-08 not available.
+
+Ticket booked PNR: 244815 Train Number: 4523 Date: 2023-09-14
+	Name: COVN Coach Number: 6 Berth Number: 23
+	Name: CJFP Coach Number: 6 Berth Number: 24
+	Name: WDUM Coach Number: 7 Berth Number: 1
+	Name: IIHB Coach Number: 7 Berth Number: 2
+	Name: KAKG Coach Number: 7 Berth Number: 3
+	Name: JBAI Coach Number: 7 Berth Number: 4
+	Name: SNIM Coach Number: 7 Berth Number: 5
+	Name: SCSR Coach Number: 7 Berth Number: 6
+
+Train 5859 on date 2023-07-20 not available.
+
+No seats available for train 2495 on date 2023-11-13.
+
+Train 5914 on date 2023-01-11 not available.
+
+Train 3983 on date 2023-08-08 not available.
+
+Train 5859 on date 2023-07-19 not available.
+
+Train 4523 on date 2023-11-13 not available.
+
+No seats available for train 2495 on date 2023-08-08.
+
+Train 6581 on date 2023-10-21 not available.
+
+Train 4523 on date 2023-01-11 not available.
+
+No seats available for train 5653 on date 2023-07-19.
+
+No seats available for train 4523 on date 2023-10-21.
+
+No seats available for train 3983 on date 2023-10-21.
+
+No seats available for train 6581 on date 2023-04-10.
+
+No seats available for train 4423 on date 2023-09-14.
+
+No seats available for train 5653 on date 2023-07-20.
+
+Ticket booked PNR: 677300 Train Number: 5653 Date: 2023-08-08
+	Name: MICO Coach Number: 8 Berth Number: 10
+	Name: ODUR Coach Number: 8 Berth Number: 11
+	Name: PYGN Coach Number: 8 Berth Number: 12
+	Name: NUCE Coach Number: 8 Berth Number: 13
+	Name: IGHZ Coach Number: 8 Berth Number: 14
+	Name: PZOG Coach Number: 8 Berth Number: 15
+
+Ticket booked PNR: 170151 Train Number: 5914 Date: 2023-05-10
+	Name: ENMI Coach Number: 9 Berth Number: 21
+	Name: UNUO Coach Number: 9 Berth Number: 22
+	Name: GFGC Coach Number: 9 Berth Number: 23
+	Name: YKBQ Coach Number: 9 Berth Number: 24
+	Name: WAQI Coach Number: 10 Berth Number: 1
+	Name: IKXM Coach Number: 10 Berth Number: 2
+
+No seats available for train 2495 on date 2023-09-14.
+
+No seats available for train 2495 on date 2023-05-10.
+
+No seats available for train 2495 on date 2023-05-10.
+
+Train 5859 on date 2023-02-19 not available.
+
+No seats available for train 2495 on date 2023-09-14.
+
+Ticket booked PNR: 912048 Train Number: 4523 Date: 2023-01-03
+	Name: MKBO Coach Number: 8 Berth Number: 6
+	Name: IBCR Coach Number: 8 Berth Number: 7
+	Name: NOAU Coach Number: 8 Berth Number: 8
+	Name: IWTF Coach Number: 8 Berth Number: 9
+
+No seats available for train 5914 on date 2023-11-13.
+
+Train 4423 on date 2023-04-10 not available.
+
+No seats available for train 6581 on date 2023-11-13.
+
+No seats available for train 5859 on date 2023-05-10.
+
+Train 5653 on date 2023-10-21 not available.
+
+Train 3983 on date 2023-08-08 not available.
+
+No seats available for train 2495 on date 2023-07-19.
+
+No seats available for train 2495 on date 2023-07-20.
+
+Train 5914 on date 2023-07-20 not available.
+
+Ticket booked PNR: 374923 Train Number: 4523 Date: 2023-01-03
+	Name: IDPT Coach Number: 8 Berth Number: 10
+	Name: EGUA Coach Number: 8 Berth Number: 11
+	Name: REVK Coach Number: 8 Berth Number: 12
+	Name: WDUM Coach Number: 8 Berth Number: 13
+	Name: ZVBU Coach Number: 8 Berth Number: 14
+
+Train 5859 on date 2023-02-19 not available.
+
+No seats available for train 5914 on date 2023-11-13.
+
+No seats available for train 5653 on date 2023-05-10.
+
+No seats available for train 6581 on date 2023-04-10.
+
+Train 5332 on date 2023-07-20 not available.
+
+No seats available for train 2495 on date 2023-10-21.
+
+No seats available for train 5914 on date 2023-11-13.
+
+Ticket booked PNR: 169544 Train Number: 5859 Date: 2023-04-10
+	Name: GFTZ Coach Number: 8 Berth Number: 2
+	Name: YNZS Coach Number: 8 Berth Number: 3
+	Name: WCMZ Coach Number: 8 Berth Number: 4
+	Name: CVWW Coach Number: 8 Berth Number: 5
+	Name: RYON Coach Number: 8 Berth Number: 6
+	Name: VFRO Coach Number: 8 Berth Number: 7
+
+No seats available for train 5653 on date 2023-07-19.
+
+Ticket booked PNR: 530439 Train Number: 5332 Date: 2023-01-03
+	Name: ZLBM Coach Number: 8 Berth Number: 14
+	Name: APXD Coach Number: 8 Berth Number: 15
+	Name: HTGU Coach Number: 8 Berth Number: 16
+	Name: GMVS Coach Number: 8 Berth Number: 17
+	Name: VWGG Coach Number: 8 Berth Number: 18
+	Name: DYRJ Coach Number: 8 Berth Number: 19
+
+No seats available for train 3983 on date 2023-11-13.
+
+Ticket booked PNR: 472764 Train Number: 5914 Date: 2023-05-10
+	Name: SWSX Coach Number: 10 Berth Number: 12
+	Name: GILE Coach Number: 10 Berth Number: 13
+	Name: ACKI Coach Number: 10 Berth Number: 14
+	Name: FYAK Coach Number: 10 Berth Number: 15
+	Name: ANMU Coach Number: 10 Berth Number: 16
+	Name: TBXI Coach Number: 10 Berth Number: 17
+	Name: XWID Coach Number: 10 Berth Number: 18
+	Name: SCNM Coach Number: 10 Berth Number: 19
+	Name: DWPK Coach Number: 10 Berth Number: 20
+	Name: JDFL Coach Number: 10 Berth Number: 21
+
+No seats available for train 5859 on date 2023-01-11.
+
+No seats available for train 2495 on date 2023-07-20.
+
+No seats available for train 2495 on date 2023-11-13.
+
+No seats available for train 2495 on date 2023-11-13.
+
+Train 5653 on date 2023-01-11 not available.
+
+Train 3983 on date 2023-08-08 not available.
+
+No seats available for train 5859 on date 2023-11-13.
+
+No seats available for train 5332 on date 2023-07-19.
+
+Train 4423 on date 2023-07-20 not available.
+
+No seats available for train 5914 on date 2023-08-08.
+
+Train 2495 on date 2023-01-03 not available.
+
+Train 5859 on date 2023-02-19 not available.
+
+Train 5653 on date 2023-01-11 not available.
+
+No seats available for train 2495 on date 2023-11-13.
+
+Train 3983 on date 2023-07-19 not available.
+
+Train 6581 on date 2023-10-21 not available.
+
+No seats available for train 5859 on date 2023-01-03.
+
+Train 2495 on date 2023-01-03 not available.
+
+Train 5859 on date 2023-10-21 not available.
+
+Train 3983 on date 2023-07-19 not available.
+
+Train 4523 on date 2023-01-11 not available.
+
+No seats available for train 2495 on date 2023-02-19.
+
+No seats available for train 5914 on date 2023-09-14.
+
+Ticket booked PNR: 203922 Train Number: 4523 Date: 2023-09-14
+	Name: TVCX Coach Number: 7 Berth Number: 20
+	Name: MPHI Coach Number: 7 Berth Number: 21
+	Name: ZOXG Coach Number: 7 Berth Number: 22
+	Name: WLXA Coach Number: 7 Berth Number: 23
+	Name: RDQX Coach Number: 7 Berth Number: 24
+
+No seats available for train 5914 on date 2023-11-13.
+
+Train 2495 on date 2023-04-10 not available.
+
+No seats available for train 5332 on date 2023-02-19.
+
+No seats available for train 5859 on date 2023-11-13.
+
+Train 5332 on date 2023-11-13 not available.
+
+No seats available for train 6581 on date 2023-04-10.
+
+No seats available for train 5859 on date 2023-09-14.
+
+No seats available for train 4423 on date 2023-10-21.
+
+No seats available for train 2495 on date 2023-07-19.
+
+Train 4523 on date 2023-05-10 not available.
+
+Ticket booked PNR: 940461 Train Number: 4423 Date: 2023-01-03
+	Name: SDFY Coach Number: 7 Berth Number: 10
+	Name: ALVA Coach Number: 7 Berth Number: 11
+	Name: NCIV Coach Number: 7 Berth Number: 12
+	Name: WUFX Coach Number: 7 Berth Number: 13
+	Name: LCTF Coach Number: 7 Berth Number: 14
+	Name: KBFJ Coach Number: 7 Berth Number: 15
+	Name: LKCH Coach Number: 7 Berth Number: 16
+
+No seats available for train 2495 on date 2023-05-10.
+
+No seats available for train 3983 on date 2023-02-19.
+
+No seats available for train 2495 on date 2023-07-20.
+
+No seats available for train 6909 on date 2023-08-08.
+
+No seats available for train 2495 on date 2023-07-20.
+
+No seats available for train 5332 on date 2023-01-11.
+
+Train 4423 on date 2023-07-20 not available.
+
+No seats available for train 3983 on date 2023-07-20.
+
+Train 5914 on date 2023-01-03 not available.
+
+No seats available for train 4523 on date 2023-09-14.
+
+No seats available for train 4523 on date 2023-08-08.
+
+Train 5859 on date 2023-07-20 not available.
+
+Train 5332 on date 2023-11-13 not available.
+
+No seats available for train 5653 on date 2023-04-10.
+
+Train 5859 on date 2023-07-19 not available.
+
+Train 5914 on date 2023-01-11 not available.
+
+No seats available for train 4423 on date 2023-11-13.
+
+Train 4423 on date 2023-01-11 not available.
+
+No seats available for train 4523 on date 2023-10-21.
+
+No seats available for train 6909 on date 2023-02-19.
+
+No seats available for train 5653 on date 2023-07-20.
+
+No seats available for train 3983 on date 2023-11-13.
+
+Train 4523 on date 2023-01-11 not available.
+
+No seats available for train 5653 on date 2023-11-13.
+
+Train 5332 on date 2023-05-10 not available.
+
+No seats available for train 4523 on date 2023-09-14.
+
+Ticket booked PNR: 977265 Train Number: 5653 Date: 2023-01-03
+	Name: TSIR Coach Number: 5 Berth Number: 23
+
+No seats available for train 5859 on date 2023-09-14.
+
+Train 6909 on date 2023-10-21 not available.
+
+No seats available for train 2495 on date 2023-01-11.
+
+Train 6581 on date 2023-07-20 not available.
+
+No seats available for train 6581 on date 2023-11-13.
+
+Train 5332 on date 2023-07-20 not available.
+
+No seats available for train 5914 on date 2023-08-08.
+
+Ticket booked PNR: 753304 Train Number: 5653 Date: 2023-08-08
+	Name: IQGJ Coach Number: 9 Berth Number: 23
+	Name: ENKB Coach Number: 9 Berth Number: 24
+	Name: GKAE Coach Number: 10 Berth Number: 1
+	Name: RMJN Coach Number: 10 Berth Number: 2
+	Name: RDVH Coach Number: 10 Berth Number: 3
+	Name: CDMX Coach Number: 10 Berth Number: 4
+	Name: GAST Coach Number: 10 Berth Number: 5
+
+Train 4523 on date 2023-01-11 not available.
+
+Ticket booked PNR: 322375 Train Number: 3983 Date: 2023-05-10
+	Name: JVRU Coach Number: 9 Berth Number: 16
+
+No seats available for train 4423 on date 2023-11-13.
+
+No seats available for train 5914 on date 2023-11-13.
+
+No seats available for train 4423 on date 2023-09-14.
+
+No seats available for train 5914 on date 2023-09-14.
+
+Train 5332 on date 2023-07-20 not available.
+
+Ticket booked PNR: 681180 Train Number: 6581 Date: 2023-05-10
+	Name: CPKF Coach Number: 6 Berth Number: 3
+	Name: DEQF Coach Number: 6 Berth Number: 4
+
+No seats available for train 3983 on date 2023-02-19.
+
+Train 5859 on date 2023-10-21 not available.
+
+No seats available for train 3983 on date 2023-04-10.
+
+Train 4423 on date 2023-04-10 not available.
+
+Train 5859 on date 2023-08-08 not available.
+
+Train 5653 on date 2023-01-11 not available.
+
+Ticket booked PNR: 308650 Train Number: 5653 Date: 2023-07-20
+	Name: OXQL Coach Number: 10 Berth Number: 24
+
+Ticket booked PNR: 115261 Train Number: 5914 Date: 2023-07-19
+	Name: QCAP Coach Number: 10 Berth Number: 9
+	Name: IPXL Coach Number: 10 Berth Number: 10
+
+Train 6581 on date 2023-09-14 not available.
+
+No seats available for train 5914 on date 2023-05-10.
+
+Train 4523 on date 2023-11-13 not available.
+
+No seats available for train 5859 on date 2023-05-10.
+
+Train 5914 on date 2023-07-20 not available.
+
+No seats available for train 4423 on date 2023-08-08.
+
+Train 6581 on date 2023-07-19 not available.
+
+No seats available for train 5653 on date 2023-07-20.
+
+Train 6581 on date 2023-07-20 not available.
+
+Ticket booked PNR: 969688 Train Number: 5332 Date: 2023-01-03
+	Name: EJFR Coach Number: 9 Berth Number: 10
+	Name: KBFN Coach Number: 9 Berth Number: 11
+	Name: WNUM Coach Number: 9 Berth Number: 12
+	Name: LIHQ Coach Number: 9 Berth Number: 13
+
+No seats available for train 4523 on date 2023-04-10.
+
+Train 4523 on date 2023-02-19 not available.
+
+No seats available for train 2495 on date 2023-07-19.
+
+No seats available for train 2495 on date 2023-01-11.
+
+Ticket booked PNR: 599491 Train Number: 4523 Date: 2023-01-03
+	Name: MLMB Coach Number: 9 Berth Number: 20
+	Name: BDDA Coach Number: 9 Berth Number: 21
+
+Ticket booked PNR: 432732 Train Number: 5653 Date: 2023-08-08
+	Name: MVYV Coach Number: 10 Berth Number: 8
+	Name: WHIK Coach Number: 10 Berth Number: 9
+	Name: XVZP Coach Number: 10 Berth Number: 10
+	Name: HIEU Coach Number: 10 Berth Number: 11
+
+No seats available for train 5859 on date 2023-09-14.
+
+No seats available for train 2495 on date 2023-11-13.
+
+No seats available for train 2495 on date 2023-08-08.
+
+Train 3983 on date 2023-07-19 not available.
+
+No seats available for train 5914 on date 2023-08-08.
+
+No seats available for train 5332 on date 2023-04-10.
+
+No seats available for train 2495 on date 2023-11-13.
+
+No seats available for train 2495 on date 2023-10-21.
+
+Train 5914 on date 2023-02-19 not available.
+
+Train 4523 on date 2023-07-20 not available.
+
+Train 3983 on date 2023-01-03 not available.
+
+Ticket booked PNR: 556258 Train Number: 4523 Date: 2023-01-03
+	Name: LKZT Coach Number: 10 Berth Number: 1
+	Name: FVZH Coach Number: 10 Berth Number: 2
+	Name: PFKA Coach Number: 10 Berth Number: 3
+	Name: VEAQ Coach Number: 10 Berth Number: 4
+	Name: TJAB Coach Number: 10 Berth Number: 5
+	Name: PHLA Coach Number: 10 Berth Number: 6
+
+No seats available for train 4423 on date 2023-11-13.
+
+No seats available for train 5653 on date 2023-11-13.
+
+No seats available for train 2495 on date 2023-02-19.
+
+No seats available for train 2495 on date 2023-05-10.
+
+No seats available for train 5653 on date 2023-01-03.
+
+Train 5332 on date 2023-07-20 not available.
+
+Train 5332 on date 2023-10-21 not available.
+
+No seats available for train 4523 on date 2023-09-14.
+
+Train 5653 on date 2023-10-21 not available.
+
+No seats available for train 2495 on date 2023-07-20.
+
+No seats available for train 6909 on date 2023-01-03.
+
+No seats available for train 6581 on date 2023-05-10.
+
+Train 6581 on date 2023-08-08 not available.
+
+No seats available for train 5332 on date 2023-02-19.
+
+Train 5332 on date 2023-05-10 not available.
+
+No seats available for train 4423 on date 2023-05-10.
+
+No seats available for train 5332 on date 2023-09-14.
+
+Ticket booked PNR: 707948 Train Number: 5859 Date: 2023-04-10
+	Name: QPII Coach Number: 9 Berth Number: 2
+
+No seats available for train 6909 on date 2023-08-08.
+
+Train 6909 on date 2023-04-10 not available.
+
+Train 4523 on date 2023-11-13 not available.
+
+Train 4523 on date 2023-07-20 not available.
+

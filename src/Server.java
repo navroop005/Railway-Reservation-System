@@ -1,5 +1,10 @@
 import java.io.File;
-import java.sql.*;
+import java.sql.CallableStatement;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+import java.sql.SQLWarning;
+import java.sql.Statement;
 import java.time.LocalDate;
 import java.util.Properties;
 import java.util.Scanner;
@@ -8,12 +13,12 @@ import org.postgresql.util.PSQLException;
 
 public class Server {
 
-   private static Connection dbConnection;
+   public static Connection dbConnection;
 
    public static void main(String[] args) {
       dbConnection = open_database();
       initialize_database();
-      add_trains_data("./inputs/train_input.txt");
+      add_trains_data("./Input/train_input.txt");
       try {
          ServiceModule.start_server();
       } catch (Exception e) {
@@ -90,6 +95,10 @@ public class Server {
          stmt.setInt(4, num_sl);
          // System.out.println(stmt);
          stmt.execute();
+         SQLWarning warning = stmt.getWarnings();
+         if (warning !=null) {
+            System.out.println(warning.getMessage());
+         }
          stmt.close();
          System.out.println("Train id: " + train_id + ", DOJ: " + doj + " added!");
       } catch (SQLException e) {
@@ -106,15 +115,16 @@ public class Server {
       try {
          File inp = new File(inp_file);
          Scanner sc = new Scanner(inp);
-         while (sc.hasNextLine()) {
-            String journey = sc.nextLine();
-            String[] s = journey.split(" ");
+         String journey = sc.nextLine();
+         while (!journey.equals("#")) {
+            String[] s = journey.split("[ ]+");
             int train_id = Integer.parseInt(s[0]);
             String doj = s[1];
             int num_ac = Integer.parseInt(s[2]);
             int num_sl = Integer.parseInt(s[3]);
 
             add_train(train_id, doj, num_ac, num_sl);
+            journey = sc.nextLine();
          }
          sc.close();
       } catch (Exception e) {

@@ -40,11 +40,18 @@ RETURNS INTEGER
 LANGUAGE PLPGSQL
 AS $$
     DECLARE
-        passenger_id INTEGER;
+        gen_passenger_id INTEGER;
     BEGIN
-        INSERT INTO passenger(name) VALUES (inp_name);
-        SELECT last_value INTO passenger_id FROM passenger_passenger_id_seq;
-        RETURN passenger_id;
+        gen_passenger_id := floor(random()*1000000);
+        INSERT INTO passenger(passenger_id, name) VALUES (gen_passenger_id, inp_name);
+
+        RETURN gen_passenger_id;
+        
+        EXCEPTION
+            WHEN unique_violation THEN
+                gen_passenger_id := add_passenger_info(inp_name);
+                RETURN gen_passenger_id;
+
     END;
 $$;
 
@@ -65,12 +72,14 @@ AS $$
                 SELECT j.available_ac_berths
                 FROM journey j
                 WHERE j.train_id = inp_train_id AND j.doj = inp_doj
+                FOR UPDATE
             ) ;
         ELSE
             avl_seat := (
                 SELECT j.available_sl_berths
                 FROM journey j
                 WHERE j.train_id = inp_train_id AND j.doj = inp_doj
+                FOR UPDATE
             );
         END IF;
 
@@ -106,9 +115,9 @@ AS $$
         coach_no INTEGER;
         berth_per_coach INTEGER;
     BEGIN
-        INSERT INTO tickets (train_id, doj, number_of_passengers, coach_type) VALUES (inp_train_id, inp_doj, inp_num_passenger, inp_coach_type);
-        SELECT last_value INTO generated_pnr FROM tickets_pnr_seq;
-        
+        generated_pnr := random()*1000000;
+        INSERT INTO tickets (pnr, train_id, doj, number_of_passengers, coach_type) VALUES (generated_pnr, inp_train_id, inp_doj, inp_num_passenger, inp_coach_type);
+
         IF inp_coach_type = 'AC' THEN
             berth_per_coach := (
                 SELECT c.value
@@ -132,7 +141,13 @@ AS $$
 
             start_seat_num := start_seat_num+1;
         END LOOP;
+
         RETURN generated_pnr;
+
+        EXCEPTION
+            WHEN unique_violation THEN
+                generated_pnr := book_ticket(inp_train_id,inp_doj,inp_num_passenger,inp_coach_type,inp_passenger_list,start_seat_num); 
+                RETURN generated_pnr;
     END;
 $$;
 
