@@ -1,18 +1,27 @@
-## Getting Started
+# Railway Reservation System
+A database project to book railway tickets with main focus on database design,concurrency and scalability.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+It is made using Java and PostgreSQL.
 
-## Folder Structure
+It a client-server program where the clients send multiple requests simultaneously, and the server uses multithreading to use all available cores on system to address these requests efficiently.
 
-The workspace contains two folders by default, where:
+Client threads read files from [Input folder](Input) and send data to the server and write response to respective files in [Output folder](Output).
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Server create a new thread for every client thread. Each thread on server create its own connection to database, process the request, perform changes according to database and send back the response.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+# Compile and run
+Create database named `railway_reservation_system` in postgres. (make changes to [open_database function in Server.java](src/Server.java#L29) if required)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Compile:
+```
+javac -cp ".:./lib/*" -d ./bin ./src/*
+```
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Run Server:
+```
+java -cp .:./bin:./lib/* Server
+```
+Run Client:
+```
+java -cp .:./bin:./lib/* client
+```
