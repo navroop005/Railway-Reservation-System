@@ -27,6 +27,6 @@ java -cp .:./bin:./lib/* client
 ```
 
 # Contributors
-Navroop Singh=2020CSB1101
-Nishant Verma=2020CSB1103
-Vinit Nana Hagone=20202CSB1361
+Navroop Singh=2020CSB1101 <br>
+Nishant Verma=2020CSB1103 <br>
+Vinit Nana Hagone=20202CSB1361 <br>
